@@ -23,6 +23,7 @@ O projeto consiste na gravação e registros de contatos, ou seja, uma agenda pa
 # Tecnologias utilizadas
 ## Back end
 - Python
+- Java
 ## Front end
 - Não houve uso
 ## Implantação em produção

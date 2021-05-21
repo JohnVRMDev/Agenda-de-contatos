@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Agenda
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/john-titor11/Agenda-de-contatos/blob/main/LICENSE) 
 
 # Sobre o projeto

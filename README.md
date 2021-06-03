@@ -10,20 +10,18 @@ Esse projeto foi feito com o intuito de fixação de conceitos basais da linguag
 O projeto consiste na gravação e registros de contatos, ou seja, uma agenda padrão.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+
 
 # Tecnologias utilizadas
 ## Back end
 - Python
-- Java
 ## Front end
 - Não houve uso
 ## Implantação em produção
@@ -45,8 +43,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-## Front end web
-Pré-requisitos: #
+
 ```bash
 
 ```
